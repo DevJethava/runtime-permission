@@ -1,0 +1,3 @@
+include ':app:runtimepermission'
+include ':app'
+rootProject.name = "Runtime Permission"

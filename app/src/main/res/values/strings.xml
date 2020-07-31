@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Permission</string>
+
+    <string name="permission">Permissions are required to be granted !</string>
+</resources>
