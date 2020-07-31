@@ -20,6 +20,7 @@ Sample Code how to used in your project :
 
 
 	
+
 public class MainActivity extends MyRuntimePermission {
 
     String[] permissionRequired;
@@ -52,4 +53,4 @@ public class MainActivity extends MyRuntimePermission {
             Toast.makeText(this, "Permission is Required ..!!", Toast.LENGTH_SHORT).show();
         }
     }
-}
+   }
